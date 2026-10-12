@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mobina Hejazi 👋
 
-<!--
-**Mobina-Hejazi/Mobina-Hejazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a passion for art, visual design, and creative technology.
 
-Here are some ideas to get you started:
+I'm interested in exploring how technology can become a medium for creativity, visual expression, and meaningful experiences. I enjoy working on visual ideas, designing interfaces, and turning concepts into interactive projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Visual Design, Art & Photography
+- UI/UX and Web Design
+- Creative Technology & Interactive Experiences
+- Digital Art and Virtual Worlds
+- Product Design and Electronics
+
+## Tools & Technologies
+
+- **Design:** Canva, UI/UX Design
+- **Frontend:** HTML, CSS, JavaScript
+- **Programming:** Python
+- **Backend:** Flask
+
+## Selected Projects
+
+### Art Gallery
+
+An interactive platform concept for artists to archive, showcase, and share their artwork.
+
+My main contributions include idea development, UI/UX design, visual design, and frontend development, with some involvement in backend development.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Flask
+
+### Smart Garden Watering System
+
+A collaborative project exploring technology-driven solutions for plant care, involving an automated watering system.
+
+My main contributions include idea development, UI/UX design, visual design, and frontend development.
+
+I'm continuing to explore the intersection of art, design, and technology while developing my skills through personal projects and research.
